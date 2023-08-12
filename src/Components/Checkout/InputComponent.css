@@ -1,0 +1,21 @@
+/* InputComponent.css */
+.input-container {
+    margin-bottom: 16px;
+  }
+  
+  .input-container label {
+    display: block;
+    margin-bottom: 4px;
+    font-weight: bold;
+  }
+  
+  .input-container input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+  
+  /* You can add additional styling as needed */
+  
