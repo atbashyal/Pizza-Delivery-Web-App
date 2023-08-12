@@ -20,8 +20,8 @@ This project allows users to browse a variety of pizzas, customize their order, 
 - Proceed to checkout to finalize the order.
 
 ## How to Run
-1. Clone the repository: `git clone https://github.com/yourusername/pizza-ordering-app.git`
-2. Navigate to the project directory: `cd pizza-ordering-app`
+1. Clone the repository: `git clone https://github.com/atbashyal/Dominos-Web-App`
+2. Navigate to the project directory: `cd Dominos-Web-App`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your web browser and visit: `http://localhost:3000`
